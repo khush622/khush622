@@ -5,6 +5,7 @@
 - 📫 If you have anything on mind you can drop a mail at khush_m@ma.iitr.ac.in
 - 0009-0001-8768-4155 is my ORCID ID
 
+I have posted some of my projects here there are many that are yet to be uploaded; once I get permission from my supervisor.
 <!---
 khush622/khush622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
